@@ -182,9 +182,9 @@ h1 {
     color: var(--dk-text);
     font-size:1.05rem;
     font-weight: 600;
-    left:50%;
-    top:-3.5px;
-    transform: translateX(-50%)  translateY(40%);
+    /*left:50%;
+    top:-3.5px;*/
+    transform: translateX(20%)  translate(-10%);
 }
 
 .check label {
